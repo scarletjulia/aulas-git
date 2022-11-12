@@ -1,1 +1,8 @@
 comandos git
+
+git init - cria um repositório ou reinicializa um repositório criado
+git ls - mostra diretórios
+git add - nome do arquivo c/ ext para incluir no q será comitado
+git status - mostra se branch principal/ os commits
+git commit -m "mensagem do commit" - salva commit c/ mensagem
+git log - mostra chave do commit, autor, data
